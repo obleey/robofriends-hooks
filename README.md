@@ -1,7 +1,6 @@
-# RoboFriends
+# RoboFriends-hooks
 
-This was made as part of the Zero to Mastery: Complete Web Developer 2021. 
-It has been developed using Classes. 
+This was made as part of the Zero to Mastery: Complete Web Developer 2021. This is the same as [Robofriends](https://github.com/obleey/robofriends), but it has been developed using functional components and hooks. 
 
 1. Clone this repo
 2. Run `npm install`
