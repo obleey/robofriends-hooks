@@ -7,7 +7,7 @@ A simple React App, that filters through fetched data with a search bar and disp
 ## How I worked on this project  
 
 This is a upgrade of my previous [Robofriends](https://github.com/obleey/robofriends) App
-- The goal here was to lift all state into Redux
+- The goal here was to refactor my original Robofriends app to using hooks and functional components
 ## How to navigate this project  
 - The `src`folder contains two separate folders, one is `components`, which stores all the reusable components of the appliaction and `containers` which stores the page layout.
 - The project uses [Tachyons CSS toolkit](https://tachyons.io/) for styling: [Card component example](https://github.com/obleey/robofriends-hooks/blob/main/src/Components/Card.js)
